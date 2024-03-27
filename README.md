@@ -30,7 +30,6 @@ http://191.241.145.3:37777/cap.js
 
 http://189.92.17.151:91/cap.js
 
-http://186.210.30.0:21/cap.js
 
 ## Actual Result
 
